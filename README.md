@@ -23,4 +23,4 @@ Système de livraison par drone autonome pour colis urgents et petits paquets. R
 - Communication 4G/5G et radio
 
 📞 Contact
-Équipe Drone Delivery - contact@dronedelivery.com
+Équipe Drone _flavienngasa@gmail.com
